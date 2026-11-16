@@ -1,8 +1,15 @@
 Flotte_de_fauteuils_roulants
-Copyright (c) 2024 Matheo Merlin. Some rights reserved.
+Copyright (c) 2024 Auguste Buriez, Romain Pecriaux and Matheo Merlin.
+Some rights reserved.
+
+Authors (project team):
+  * Auguste Buriez
+  * Romain Pecriaux
+  * Matheo Merlin
 
 This work - the source code, documentation, models, figures and other content
-of this repository - is licensed under the
+of this repository - is the joint work of the authors listed above and is
+licensed under the
 
     Creative Commons Attribution-NonCommercial 4.0 International License
     (CC BY-NC 4.0)
@@ -21,32 +28,35 @@ You MAY, for non-commercial purposes only:
   * modify it and build your own work on it.
 
 You MUST:
-  * give appropriate credit whenever you share, publish or present this work
-    or any work based on it (article, video, post, report, repository,
-    website, talk...). Use this attribution:
+  * give appropriate credit to ALL the authors whenever you share, publish or
+    present this work or any work based on it (article, video, post, report,
+    repository, website, talk...). Use this attribution:
 
-        "Based on Flotte_de_fauteuils_roulants by Matheo Merlin
-         (https://github.com/Mafuo-git/Flotte_de_fauteuils_roulants), licensed under CC BY-NC 4.0."
+        "Based on Flotte_de_fauteuils_roulants by Auguste Buriez, Romain Pecriaux
+        and Matheo Merlin
+        (https://github.com/Mafuo-git/Flotte_de_fauteuils_roulants), licensed under
+        CC BY-NC 4.0."
 
   * link to the licence and say whether you made changes;
-  * not suggest that Matheo Merlin endorses you or your use.
+  * not suggest that the authors endorse you or your use.
 
 You MAY NOT:
   * use this work, or any part or adaptation of it, for commercial purposes:
     no sale, no paid product or service, no integration in a commercial
     product, no use by or for a company to earn money or gain a commercial
     advantage, no paid training or consulting based on it, without prior
-    written permission from Matheo Merlin;
-  * remove or alter this copyright notice, the licence notice or the credits.
+    written permission from the authors;
+  * remove or alter this copyright notice, the list of authors, the licence
+    notice or the credits.
 
-Commercial licensing: any commercial use requires a separate written agreement.
-Contact Matheo Merlin through GitHub (https://github.com/Mafuo-git).
+Commercial licensing: any commercial use requires a separate written agreement
+with the authors. Contact them through this repository (https://github.com/Mafuo-git/Flotte_de_fauteuils_roulants).
 
 -------------------------------------------------------------------------------
 Third-party components
 -------------------------------------------------------------------------------
-Third-party libraries, tools, files and assets used by this project keep their
-own licences and are not covered by this licence. In particular, the
+Third-party libraries, tools, files and assets used by this project keep
+their own licences and are not covered by this licence. In particular, the
 CoppeliaSim remote API files (Sim_Nav_flotte/Sim_Nav/remApi.m,
 remoteApiProto.m and remoteApi.dll) belong to Coppelia Robotics and are not
 covered by this licence. CoppeliaSim and MATLAB are trademarks of their
